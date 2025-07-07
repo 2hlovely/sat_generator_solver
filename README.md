@@ -14,12 +14,12 @@ requirements.txt文件列出了所需的依赖库。
 ## 使用方法：
 
 ## 1、安装依赖：
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 ## 2、运行程序：
-'''bash
+```bash
 python sat_generator_solver.py
-'''
+```
 
 程序会输出生成的子句集、可满足性结果和模型（如果存在），并验证模型的正确性。
